@@ -17,6 +17,6 @@
 * productlist.Java 进入产品列表
 * car.java 购物车
 * register 注册界面
- * scr文件夹：存储使用的java类
-
- 
+* scr文件夹：存储使用的java类
+## 主要功能截图
+![]()
