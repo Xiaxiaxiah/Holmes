@@ -30,3 +30,8 @@
 |商品详情|![](https://github.com/Xiaxiaxiah/Holmes/blob/master/screenshots/goods2.png)
 |购物车|![](https://github.com/Xiaxiaxiah/Holmes/blob/master/screenshots/car.png)
 |订单|![](https://github.com/Xiaxiaxiah/Holmes/blob/master/screenshots/payoff.png)
+## 脚本截图
+* json
+![]https://github.com/Xiaxiaxiah/Holmes/blob/master/script/脚本2.PNG
+* 连接数据库
+![]https://github.com/Xiaxiaxiah/Holmes/blob/master/script/脚本截图.PNG
